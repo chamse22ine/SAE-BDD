@@ -102,4 +102,3 @@ This project allowed the demonstration of:
 <!--START_SECTION:activity-->
 
 This section will be automatically updated with recent GitHub activity.
-# SAE-BDD
