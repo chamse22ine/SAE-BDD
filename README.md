@@ -97,10 +97,6 @@ This project allowed the demonstration of:
 
 ---
 
-## ✨ Activity
-
-<!--START_SECTION:activity-->
-
 ##📃 License
 This project is provided for educational purposes. Any use or modification is allowed for learning or academic activities.
 
