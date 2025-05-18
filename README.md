@@ -97,7 +97,7 @@ This project allowed the demonstration of:
 
 ---
 
-##📃 License
+## 📃 License
 This project is provided for educational purposes. Any use or modification is allowed for learning or academic activities.
 
 This section will be automatically updated with recent GitHub activity.
